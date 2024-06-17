@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f39707f-cfdd-49b0-8dc9-bf80ea0535d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EKE Database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/EKEhikes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/EKEhikes/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/EKEhikes/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/EKEhikes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/EKEhikes/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/hikes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/hikes/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/hikes/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/hikes/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/hikes/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/hikes/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/hikes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/hikes/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/members/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/members/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/members/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/members/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/members/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/members/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/members/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/members/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/users/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EKEhikes/users/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2huohOGelup2VD9P0eWKegHntpU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f39707f-cfdd-49b0-8dc9-bf80ea0535d9" name="Changes" comment="" />
+      <created>1718453443208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718453443208</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
